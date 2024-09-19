@@ -1,0 +1,15 @@
+11223344, paperback, A Promised Land, English, Biography, 17-11-2020, 5, 17.5, 768, new
+11224455, audiobook, A Promised Land, English, Biography, 24-11-2020, 10, 30.25, 4.5, MP3
+12345678, paperback, Introduction to AI, French, Computer Science, 20-05-2019, 8, 50.00, 410, new
+22334455, paperback, Intelligent Investor, English, Business, 23-10-2015, 2, 14.20, 640, used
+22446688, ebook, Big Money Energy, French, Business, 21-01-2021, 12, 10.99, 182, PDF
+23456789, ebook, Laws of Power, English, Politics, 03-09-2017, 15, 18.10, 724, PDF
+33112266, audiobook, Laws of Power, French, Politics, 22-09-2017, 4, 5.00, 4.5, WMA
+33221144, audiobook, Project Management, English, Computer Science, 10-12-2019, 9, 22.00, 7.2, AAC
+33331122, paperback, Project Management, English, Computer Science, 01-12-2019, 3, 32.50, 132, new
+33332233, ebook, Office Not Required, English, Business, 11-02-2018, 4, 12.20, 258, MOBI
+44112233, audiobook, How To Be Right, French, Biography, 30-05-2019, 20, 3.0, 8.30, WMA
+44223344, paperback, Business And Investment, English, Business, 10-12-2020, 3, 11.25, 288, used
+44335566, paperback, Cyber Security, English, Computer Science, 10-10-2020, 8, 10.99, 256, new
+44556688, ebook, Cyber Security, English, Computer Science, 10-10-2020, 10, 10.10, 256, EPUB
+44556677, audiobook, Deep Work, French, Business, 05-01-2016, 7, 8.50, 5.5, MP3
